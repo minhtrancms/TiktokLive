@@ -27,4 +27,5 @@
 
 
 3. chạy lệnh:
-python3 run_ui.py
+   ```bash
+    python3 run_ui.py
