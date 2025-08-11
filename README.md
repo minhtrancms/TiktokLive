@@ -25,7 +25,6 @@
     venv\Scripts\activate     # Windows
     pip install -r requirements.txt
 
-
 3. chạy lệnh:
    ```bash
     python3 run_ui.py
