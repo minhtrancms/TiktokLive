@@ -19,9 +19,10 @@
 
 2. Tạo virtual environment và cài dependencies:
 
-python3 -m venv venv
-source venv/bin/activate  # macOS/Linux
-venv\Scripts\activate     # Windows
+   ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # macOS/Linux
+    venv\Scripts\activate     # Windows
 
 pip install -r requirements.txt
 
